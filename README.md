@@ -24,7 +24,14 @@ and monitor the performance of the respective models.
 * ***ViT & BioBert***
 
 
+
+
+
 **Model Performance**:
+
+
+
+
 ![Example Image](images/im_1.png)
 
 
@@ -33,6 +40,8 @@ model of ViT & Bio Bert scored the greatest Rouge-1 F1 metric with 31%.
 With respect to the evaluation metrics and
 the overall performance of the models, we noticed that the encoder-decoder models are
 more robust to image captioning task, outperforming the older architecture models ( CNN & LSTM)
+
+
 
 **Results**:
 ![Example Image](images/im_2.png)
